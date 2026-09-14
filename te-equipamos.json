@@ -1,17 +1,21 @@
 {
   "brand": "Te Equipamos",
+  "schema_version": 2,
   "items": [
     {
       "active": true,
       "type": "sale",
       "sections": ["Ventas", "Ofertas"],
+      "activities": ["senderismo", "trekking"],
+      "product_type": "zapatillas",
       "title": "Tacos de 3 mm y suela flexible: una zapatilla de senderismo infantil pensada para moverse",
       "summary": "Quechua NH500 infantil con agarre, amortiguación y plantilla extraíble.",
       "url": "https://jorgesport.github.io/quechua-nh500-ninos-remate/",
       "time": "Producto · Calzado",
       "score": 95,
       "featured": false,
-      "direct": true
+      "direct": true,
+      "tags": ["zapatillas", "senderismo", "infantil", "quechua"]
     }
   ]
 }
